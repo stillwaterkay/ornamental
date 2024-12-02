@@ -1,0 +1,11 @@
+name: "ornamental"
+main: "ornamental.Ornamental"
+version: "0.1.0"
+minGameVersion: 146
+java: true
+hidden: true
+
+displayName: "Ornamental"
+author: "stillwaterkay"
+subtitle: "decoreshon"
+description: "description."
